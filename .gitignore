@@ -1,0 +1,15 @@
+backend/.cache/
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.pytest_cache/
+.ruff_cache/
+~$*.docx
+*.log
+HealthPulse_AI_Detailed_Project_Report_INT428.docx
+HealthPulse_AI_Final_Project_Report_INT428.docx
+HealthPulse_AI_Project_Report_INT428.docx

@@ -1,0 +1,11 @@
+indicator,country_code,country_name,year,value,unit,source
+dengue_cases,DL,Delhi,2019,2036,cases,Sample public health dataset
+dengue_cases,DL,Delhi,2020,1269,cases,Sample public health dataset
+dengue_cases,DL,Delhi,2021,9613,cases,Sample public health dataset
+dengue_cases,DL,Delhi,2022,4469,cases,Sample public health dataset
+dengue_cases,DL,Delhi,2023,9266,cases,Sample public health dataset
+dengue_cases,MH,Maharashtra,2019,14907,cases,Sample public health dataset
+dengue_cases,MH,Maharashtra,2020,3356,cases,Sample public health dataset
+dengue_cases,MH,Maharashtra,2021,12720,cases,Sample public health dataset
+dengue_cases,MH,Maharashtra,2022,8578,cases,Sample public health dataset
+dengue_cases,MH,Maharashtra,2023,19645,cases,Sample public health dataset
